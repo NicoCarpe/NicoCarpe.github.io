@@ -1,0 +1,27 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: "#1C1C1C";
+    text-align: center;
+}
+
+h1,h3 {
+  color: rgb(166, 200, 252);}
+}
+
+p {
+  color: rgb(166, 200, 252);}
+}
+
+body, html {
+  height: 100%;
+}
+
+.parallax {
+
+background-image: "images/homerStCafe.jpg";
+height: 100%;
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
