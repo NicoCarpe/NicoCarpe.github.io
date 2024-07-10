@@ -1,0 +1,4 @@
+baseURL = 'https://nicocarp.github.io/'
+languageCode = 'en-us'
+title = 'Nicolas Carpenter'
+theme = "blowfish"
