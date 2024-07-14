@@ -1,0 +1,13 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Nicolas Carpenter"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "January 2, 2006"
+  #logo = "img/blowfish_logo_transparent.png"
+  #description = "A powerful, lightweight theme for Hugo."
+
