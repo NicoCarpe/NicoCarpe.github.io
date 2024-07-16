@@ -19,7 +19,7 @@ enableEmoji = true
 
 [author]
   name = "Nicolas Carpenter"
-  image = "img/avatar.jpg"
+  image = "img/headshot.jpg"
   headline = "Junior Researcher @ Servier Virtual Cardiac Centre"
   bio = "Jr Researcher @ Servier Virtual Cardiac Centre"
   links = [

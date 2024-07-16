@@ -24,7 +24,7 @@ layoutBackgroundHeaderSpace: false
 
 ---
 
-These are a couple projects that I have sunk a decent amount of time into. Currently, my primary focus is on projects related to medical imaging analysis.
+In my personal time, I have been enjoying working on projects involving machine learning applications to medical imaging (most recently in dynamic MRI). Below are some of the projects I have created while exploring this field.
 <table>
     <thead>
         <tr>
@@ -36,15 +36,9 @@ These are a couple projects that I have sunk a decent amount of time into. Curre
     <tbody>
         <tr>
             <td>CMRxRecon</td>
-            <td>A Transformer based model capable of general recontruction of cardiac magnetic resonance images across various contrasts, views, and undersampling scenarios.
+            <td>A Transformer based model capable of general recontruction of cardiac magnetic resonance images (CMR) across various contrasts, views, and undersampling scenarios.
             </td>
             <td><a target="_blank" href="https://github.com/NicoCarpe/CMR-Reconstruction">github</a></td>
-        </tr>
-        <tr>
-            <td>FieldVision</td>
-            <td>A player-tracking system tailored for tennis analytics. Monitors player movements, while handling occlusions, and maps player positions onto a top-down view of a tennis court.
-            </td>
-            <td><a target="_blank" href="https://github.com/NicoCarpe/FieldVision">github</a></td>
         </tr>
         <tr>
             <td>ABUS-Seg</td>
